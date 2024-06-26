@@ -28,6 +28,7 @@ This goal of this project was to set up an Active Directory home lab that includ
 3) Install and configure software.
    - Sysmon
    - Splunk
+   - Wireshark
      
 4) Configure Active Directory.
    - Promote server to a domain controller.
@@ -39,6 +40,8 @@ This goal of this project was to set up an Active Directory home lab that includ
    - Install Atomic Red Team and run various tests.
      
 6) Analyze and query generated telemetry using Splunk.
+
+7) Monitor network traffic using Wireshark.
 
 ## Screenshots
 
