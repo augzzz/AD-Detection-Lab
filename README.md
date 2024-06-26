@@ -19,26 +19,26 @@ This goal of this project was to set up an Active Directory home lab that includ
 ## Steps
 1) Build a logical diagram of the virtual network.
    
-3) Install virtual machines.
+2) Install virtual machines.
    - Windows Server
    - Windows 10
    - Kali Linux
    - Splunk
      
-4) Install and configure software.
+3) Install and configure software.
    - Sysmon
    - Splunk
      
-6) Configure Active Directory.
+4) Configure Active Directory.
    - Promote server to a domain controller.
    - Add users and groups to domain.
    - Join target PC to domain.
      
-8) Generate telemetry with Kali Linux and Atomic Red Team tests.
+5) Generate telemetry with Kali Linux and Atomic Red Team tests.
    - Use Kali machine to run brute force attacks (Crowbar) targeting a domain user.
    - Install Atomic Red Team and run various tests.
      
-10) Analyze and query generated telemetry using Splunk.
+6) Analyze and query generated telemetry using Splunk.
 
 ## Screenshots
 
