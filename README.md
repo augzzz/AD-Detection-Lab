@@ -41,6 +41,11 @@ This goal of this project was to set up an Active Directory home lab that includ
 10) Analyze and query generated telemetry using Splunk.
 
 ## Screenshots
-![Screenshot 2024-06-25 174622](https://github.com/augzzz/Active-Directory-Lab/assets/51249119/c8883c00-eced-4397-bb11-5c2d0b04c89c)
+
+![Screenshot 2024-06-25 213026](https://github.com/augzzz/AD-Detection-Lab/assets/51249119/c3a62b62-13a9-41f3-ba16-88047774cef6)
 
 <i>Ref1: Network Diagram </i>
+
+![Screenshot 2024-06-25 182500](https://github.com/augzzz/AD-Detection-Lab/assets/51249119/9e9699ba-b081-48ad-86ef-d4dc5e3e271a)
+
+<i>Ref2: Splunk Query </i>
